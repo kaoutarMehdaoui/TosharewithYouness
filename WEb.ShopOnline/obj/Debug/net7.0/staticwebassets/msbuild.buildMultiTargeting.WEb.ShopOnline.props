@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WEb.ShopOnline.props" />
+</Project>

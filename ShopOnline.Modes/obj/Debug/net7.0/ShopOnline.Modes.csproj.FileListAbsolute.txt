@@ -1,0 +1,12 @@
+C:\Users\Kmehdaoui\source\repos\shopOnlineSolution\ShopOnline.Modes\bin\Debug\net7.0\ShopOnline.Modes.deps.json
+C:\Users\Kmehdaoui\source\repos\shopOnlineSolution\ShopOnline.Modes\bin\Debug\net7.0\ShopOnline.Modes.dll
+C:\Users\Kmehdaoui\source\repos\shopOnlineSolution\ShopOnline.Modes\bin\Debug\net7.0\ShopOnline.Modes.pdb
+C:\Users\Kmehdaoui\source\repos\shopOnlineSolution\ShopOnline.Modes\obj\Debug\net7.0\ShopOnline.Modes.csproj.AssemblyReference.cache
+C:\Users\Kmehdaoui\source\repos\shopOnlineSolution\ShopOnline.Modes\obj\Debug\net7.0\ShopOnline.Modes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kmehdaoui\source\repos\shopOnlineSolution\ShopOnline.Modes\obj\Debug\net7.0\ShopOnline.Modes.AssemblyInfoInputs.cache
+C:\Users\Kmehdaoui\source\repos\shopOnlineSolution\ShopOnline.Modes\obj\Debug\net7.0\ShopOnline.Modes.AssemblyInfo.cs
+C:\Users\Kmehdaoui\source\repos\shopOnlineSolution\ShopOnline.Modes\obj\Debug\net7.0\ShopOnline.Modes.csproj.CoreCompileInputs.cache
+C:\Users\Kmehdaoui\source\repos\shopOnlineSolution\ShopOnline.Modes\obj\Debug\net7.0\ShopOnline.Modes.dll
+C:\Users\Kmehdaoui\source\repos\shopOnlineSolution\ShopOnline.Modes\obj\Debug\net7.0\refint\ShopOnline.Modes.dll
+C:\Users\Kmehdaoui\source\repos\shopOnlineSolution\ShopOnline.Modes\obj\Debug\net7.0\ShopOnline.Modes.pdb
+C:\Users\Kmehdaoui\source\repos\shopOnlineSolution\ShopOnline.Modes\obj\Debug\net7.0\ref\ShopOnline.Modes.dll
