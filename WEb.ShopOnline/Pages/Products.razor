@@ -11,18 +11,33 @@ else
     
     var productCount = ProductFromApi.Count();
     @if(productCount>0){
-        const int itemsPerRow = 4;
+        @* _____________________________________________before group by caterory__________________________________________________________________
+           const int itemsPerRow = 4;
+
         var ProductToDisplay = new List<ProductDTO?>();
         @for( int i=0; i<productCount; i++)
         {
             ProductToDisplay = ProductFromApi.Skip(i * itemsPerRow).Take(itemsPerRow).ToList();
-            <div  class="row mt-3">
-                @foreach (var item in ProductToDisplay)
+            __________________________________________After group by category ____________________________________________________________________*@
+        var GroupProductsByCategory = from product in ProductFromApi group product by product.CategoryName into probyCatGroup orderby probyCatGroup.Key select new { CategoryId = probyCatGroup.Key, Product = probyCatGroup };
+
+            @foreach (var item in GroupProductsByCategory)
                 {
-                <DisplayProducts Product="@item"></DisplayProducts>
+            @*var categoryName = @item.FirstOrDefault(ct => ct.Id == item.Key).CategoryName;
+            <h3> @categoryName</h3>
+            <p>@item</p>*@
+                    <h5>@item.Product.Key </h5>
+                        <div class="row mt-3">
+                                    @foreach(var prod in item.Product)
+                                        {
+                                            <DisplayProducts Product="@prod"></DisplayProducts>
+                                        }
+                        </div>
+                        
+                        <hr class="mb-3"/>
                 }
-            </div> 
-        }
+            
+        
              
 
     }
