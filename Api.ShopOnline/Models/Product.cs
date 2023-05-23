@@ -11,7 +11,7 @@ namespace shopOnline.Api.Models
 
         public double Price { get; set; }
         public int qte { get; set; }
-     
+
         public int CategoryId { get; set; }
         [ForeignKey("CategoryId")]
         public ProductCategory ProductCategory { get; set; }

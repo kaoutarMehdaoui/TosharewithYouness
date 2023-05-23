@@ -271,7 +271,7 @@ namespace Api.ShopOnline
             {
                 Id = 1,
                 UseName = "Bob",
-                Email="test1@gmail.com"
+                Email = "test1@gmail.com"
 
             });
             modelBuilder.Entity<User>().HasData(new User

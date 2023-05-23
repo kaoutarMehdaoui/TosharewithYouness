@@ -8,7 +8,7 @@ var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
 
-builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });//HttpClient is available as a preconfigured service for making requests back to the origin server.
+builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://localhost:7254/") });//HttpClient is available as a preconfigured service for making requests back to the origin server.
 builder.Services.AddScoped<IProductService, ProductService>();
 
 await builder.Build().RunAsync();

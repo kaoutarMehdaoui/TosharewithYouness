@@ -31,7 +31,7 @@ namespace shopOnline.Api.Repositories.Emplemention
 
         public async Task<Product> GetItem(int id)
         {
-            Product item = await _context.Products.Include(p=>p.ProductCategory).FirstOrDefaultAsync(x => x.Id == id);
+            Product item = await _context.Products.Include(p => p.ProductCategory).FirstOrDefaultAsync(x => x.Id == id);
             return item;
 
 

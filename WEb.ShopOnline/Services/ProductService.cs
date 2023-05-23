@@ -4,14 +4,14 @@ using WEb.ShopOnline.Services.Contracts;
 
 namespace WEb.ShopOnline.Services
 {
-    public class ProductService :IProductService
+    public class ProductService : IProductService
     {
         private readonly HttpClient _httpClient;
         public ProductService(HttpClient httpClient)
-        { 
+        {
             _httpClient = httpClient;
-            
-            
+
+
         }
 
         public async Task<IEnumerable<ProductDTO>> GetProducts()

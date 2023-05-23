@@ -4,17 +4,17 @@ using WEb.ShopOnline.Services.Contracts;
 
 namespace WEb.ShopOnline.Pages
 {
-    public partial class ProductAdds :ComponentBase
+    public class ProductAdds : ComponentBase
     {
         [Inject]
         public IProductService _productService { get; set; }
-        public IEnumerable<ProductDTO> ProductFromApi { get; set; }=new List<ProductDTO>();
+        public IEnumerable<ProductDTO> ProductFromApi { get; set; } = new List<ProductDTO>();
 
-         protected override async Task OnInitializedAsync()
+        protected override async Task OnInitializedAsync()
         {
             ProductFromApi = (await _productService.GetProducts()).ToList();
-           
 
-         }
+
+        }
     }
 }

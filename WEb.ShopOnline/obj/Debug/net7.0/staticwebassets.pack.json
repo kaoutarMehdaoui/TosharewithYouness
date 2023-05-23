@@ -13,96 +13,100 @@
       "PackagePath": "staticwebassets\\WEb.ShopOnline.styles.css"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Beauty\\Beauty1.png",
-      "PackagePath": "staticwebassets\\Beauty\\Beauty1.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Beauty\\Beauty1.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty1.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Beauty\\Beauty2.png",
-      "PackagePath": "staticwebassets\\Beauty\\Beauty2.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Beauty\\Beauty2.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty2.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Beauty\\Beauty3.png",
-      "PackagePath": "staticwebassets\\Beauty\\Beauty3.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Beauty\\Beauty24.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty24.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Beauty\\Beauty4.png",
-      "PackagePath": "staticwebassets\\Beauty\\Beauty4.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Beauty\\Beauty3.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty3.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Beauty\\Beauty5.png",
-      "PackagePath": "staticwebassets\\Beauty\\Beauty5.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Beauty\\Beauty4.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty4.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Electronic\\Electronics1.png",
-      "PackagePath": "staticwebassets\\Electronic\\Electronics1.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Beauty\\Beauty5.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty5.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Electronic\\Electronics3.png",
-      "PackagePath": "staticwebassets\\Electronic\\Electronics3.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Electronic\\Electronics1.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\Electronics1.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Electronic\\electronic4.png",
-      "PackagePath": "staticwebassets\\Electronic\\electronic4.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Electronic\\Electronics3.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\Electronics3.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Electronic\\electronic5.png",
-      "PackagePath": "staticwebassets\\Electronic\\electronic5.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Electronic\\electronic4.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\electronic4.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Electronic\\electronics2.png",
-      "PackagePath": "staticwebassets\\Electronic\\electronics2.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Electronic\\electronic5.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\electronic5.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Electronic\\technology6.png",
-      "PackagePath": "staticwebassets\\Electronic\\technology6.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Electronic\\electronics2.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\electronics2.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Furniture\\Furniture1.png",
-      "PackagePath": "staticwebassets\\Furniture\\Furniture1.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Electronic\\technology6.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\technology6.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Furniture\\Furniture2.png",
-      "PackagePath": "staticwebassets\\Furniture\\Furniture2.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Furniture\\Furniture1.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture1.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Furniture\\Furniture3.png",
-      "PackagePath": "staticwebassets\\Furniture\\Furniture3.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Furniture\\Furniture2.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture2.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Furniture\\Furniture4.png",
-      "PackagePath": "staticwebassets\\Furniture\\Furniture4.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Furniture\\Furniture3.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture3.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Furniture\\Furniture6.png",
-      "PackagePath": "staticwebassets\\Furniture\\Furniture6.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Furniture\\Furniture4.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture4.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Furniture\\Furniture7.png",
-      "PackagePath": "staticwebassets\\Furniture\\Furniture7.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Furniture\\Furniture6.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture6.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Shoes\\Shoes1.png",
-      "PackagePath": "staticwebassets\\Shoes\\Shoes1.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Furniture\\Furniture7.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture7.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Shoes\\Shoes2.png",
-      "PackagePath": "staticwebassets\\Shoes\\Shoes2.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Shoes\\Shoes1.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes1.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Shoes\\Shoes3.png",
-      "PackagePath": "staticwebassets\\Shoes\\Shoes3.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Shoes\\Shoes2.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes2.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Shoes\\Shoes5.png",
-      "PackagePath": "staticwebassets\\Shoes\\Shoes5.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Shoes\\Shoes3.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes3.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Shoes\\Shoes6.png",
-      "PackagePath": "staticwebassets\\Shoes\\Shoes6.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Shoes\\Shoes5.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes5.png"
     },
     {
-      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Shoes\\shoes4.png",
-      "PackagePath": "staticwebassets\\Shoes\\shoes4.png"
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Shoes\\Shoes6.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes6.png"
+    },
+    {
+      "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\Images\\Shoes\\shoes4.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\shoes4.png"
     },
     {
       "Id": "C:\\Users\\Kmehdaoui\\source\\repos\\shopOnlineSolution\\WEb.ShopOnline\\wwwroot\\css\\app.css",
