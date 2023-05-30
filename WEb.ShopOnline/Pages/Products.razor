@@ -19,16 +19,16 @@ else
         {
             ProductToDisplay = ProductFromApi.Skip(i * itemsPerRow).Take(itemsPerRow).ToList();
             __________________________________________After group by category ____________________________________________________________________*@
-        var GroupProductsByCategory = from product in ProductFromApi group product by product.CategoryName into probyCatGroup orderby probyCatGroup.Key select new { CategoryId = probyCatGroup.Key, Product = probyCatGroup };
+       @*  var GroupProductsByCategory = from product in ProductFromApi group product by product.CategoryName into probyCatGroup orderby probyCatGroup.Key select new { CategoryId = probyCatGroup.Key, Product = probyCatGroup };*@
 
-            @foreach (var item in GroupProductsByCategory)
+        @foreach (var item in GetGroupedProductsByCategory())
                 {
             @*var categoryName = @item.FirstOrDefault(ct => ct.Id == item.Key).CategoryName;
-            <h3> @categoryName</h3>
+            <h3> @categoryName</h3>koun
             <p>@item</p>*@
-                    <h5>@item.Product.Key </h5>
+            <h5> @GetCategoryName(item) </h5>
                         <div class="row mt-3">
-                                    @foreach(var prod in item.Product)
+                                    @foreach(var prod in item)
                                         {
                                             <DisplayProducts Product="@prod"></DisplayProducts>
                                         }
